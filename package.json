@@ -1,5 +1,5 @@
 {
   "name": "@types/keynavagable",
-  "version": 2.0.1,
+  "version": "2.0.1",
   "types": "./index.d.ts"
 }
